@@ -8,7 +8,7 @@ I am someone who loves developing websites with the latest technologies. Althoug
 
 * 🌍  I'm based in Dhaka, Bangladesh.
 * ✉️  You can contact me at [sajidwebdev21@gmail.com](mailto:sajidwebdev21@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm currently working in NextJS projects of my own.
 * ⚡  I'm looking for an opportunity to work in a team as a front-end web developer.
 
 ### Skills
